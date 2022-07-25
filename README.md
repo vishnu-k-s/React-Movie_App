@@ -4,3 +4,12 @@
         
 - To install node modules 
         npm install 
+
+- To run app 
+        npm start 
+
+- To install sass
+        npm install sass
+
+- To install matrerial liberary
+        npm install @material-ui/icons @material-ui/core
