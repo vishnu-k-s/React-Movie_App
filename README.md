@@ -2,6 +2,10 @@
                                             REACT MOVIE APP
  
  
+ Description 
+    
+    A netflix like movie app build using ReactJS
+ 
  Project Setup
  
   - clone react mini branch from git 
