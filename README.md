@@ -1,5 +1,5 @@
 
-                                            REACT MOVIE APP
+                    REACT MOVIE APP
  
  
  Description 
